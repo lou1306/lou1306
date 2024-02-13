@@ -1,8 +1,9 @@
 Ciao! Hi! Salut! Tjena! 👋
 
 - I'm a postdoc at [University of Gothenburg](https://www.gu.se/en) and [Chalmers](https://www.chalmers.se/en/Pages/default.aspx) in sunny Gothenburg, Sweden 🇸🇪🇪🇺
-- I am interested in improving how we reason about the correctness of programs and systems ✅
-- As of late I have been researching about verification and reactive synthesis, and messing with SMT and SAT solvers 👨‍💻
+- I want to improve automated reasoning about the correctness of programs and systems ✅
+- I am also interested in formal semantics of languages, collective and emergent behaviour, concurrency, and process algebras 🌀
+- As of late I have been working on verification and reactive synthesis, and messing with SMT and SAT solvers 👨‍💻
 
 For more information, check out:
 
