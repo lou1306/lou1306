@@ -8,7 +8,7 @@ Ciao! Hi! Salut! Tjena! 👋
 
 For more information, check out:
 
-* [My old academic homepage at GU/Chalmers](https://www.cse.chalmers.se/~lucad/)
+* [My academic homepage](https://www.lucadistefano.eu/)
 * [My GitHub.io homepage](https://lou1306.github.io/)
 * [My publications](https://dblp.uni-trier.de/pid/215/9758.html)
 
