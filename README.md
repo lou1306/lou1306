@@ -1,4 +1,4 @@
-Ciao! Hi! Salut! Tjena! 👋
+Ciao! Hi! Salut! Tjena! Grüß Gott! 👋
 
 - I'm a University Assistant at the [Cyber-Physical Systems group](https://informatics.tuwien.ac.at/orgs/e191-01) within [TU Wien](https://tuwien.ac.at) 🇦🇹🇪🇺
 - I want to improve automated reasoning about the correctness of programs and systems ✅
